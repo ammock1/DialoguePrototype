@@ -1,0 +1,54 @@
+{
+	"lines":
+	[
+		{
+			"id": 0,
+			"tip": "",
+			"speaker": "???",
+			"content": "Hello there!",
+			"nextLines": [1]
+		},
+		{
+			"id": 1,
+			"tip": "",
+			"speaker": "Beansworth",
+			"content": "My name is Edgar Beansworth III",
+			"nextLines": [2]
+		},
+		{
+			"id": 2,
+			"tip": "",
+			"speaker": "Beansworth",
+			"content": "I know what you did!",
+			"nextLines": [3, 4]
+		},
+		{
+			"id": 3,
+			"tip": "Huh?",
+			"speaker": "You",
+			"content": "What're you talking about?",
+			"nextLines": [5]
+		},
+		{
+			"id": 4,
+			"tip": "Okay",
+			"speaker": "You",
+			"content": "Okay, I think it's time to go now",
+			"nextLines": [6]
+		},
+		{
+			"id": 5,
+			"tip": "",
+			"speaker": "Beansworth",
+			"content": "Oh, you know...",
+			"nextLines": [4]
+		},
+		{
+			"id": 6,
+			"tip": "",
+			"speaker": "Beansworth",
+			"content": "What are you going to do, go back to the main menu?",
+			"nextLines": []
+		}
+	]
+}

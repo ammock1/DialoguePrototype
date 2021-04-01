@@ -1,0 +1,26 @@
+{
+  "lines":
+  [
+    {
+      "id": 0,
+      "tip": "",
+      "speaker": "Yellow Eyed Bean",
+      "content": "I actually don't mind it down here",
+      "nextLines": [1]
+    },
+    {
+      "id": 1,
+      "tip": "",
+      "speaker": "Yellow Eyed Bean",
+      "content": "It's not that different from our old home, now that I think about it",
+      "nextLines": [2]
+    },
+    {
+      "id": 2,
+      "tip": "",
+      "speaker": "Yellow Eyed Bean",
+      "content": "Whole lot of nothing...",
+      "nextLines": []
+    }
+  ]
+}

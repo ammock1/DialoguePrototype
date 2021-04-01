@@ -1,0 +1,61 @@
+{
+  "lines":
+  [
+    {
+      "id": 0,
+      "tip": "",
+      "speaker": "Blue Eyed Bean",
+      "content": "Hi! Have we met before--Wait!",
+      "nextLines": [1]
+    },
+    {
+      "id": 1,
+      "tip": "",
+      "speaker": "Blue Eyed Bean",
+      "content": "You're the one who sent us down here, aren't you?",
+      "nextLines": [2, 3]
+    },
+    {
+      "id": 2,
+      "tip": "Yes",
+      "speaker": "You",
+      "content": "Yeah, that was me",
+      "nextLines": [7]
+    },
+    {
+      "id": 3,
+      "tip": "No",
+      "speaker": "You",
+      "content": "What, no!",
+      "nextLines": [4]
+    },
+    {
+      "id": 4,
+      "tip": "",
+      "speaker": "Blue Eyed Bean",
+      "content": "Hmm...",
+      "nextLines": [5]
+    },
+    {
+      "id": 5,
+      "tip": "",
+      "speaker": "Blue Eyed Bean",
+      "content": "Hmmmm...",
+      "nextLines": [6]
+    },
+    {
+      "id": 6,
+      "tip": "",
+      "speaker": "Blue Eyed Bean",
+      "content": "HMMMMM...",
+      "nextLines": [7] 
+    },
+    {
+      "id": 7,
+      "tip": "",
+      "speaker": "Blue Eyed Bean",
+      "content": "Whatever, we're done here.",
+      "nextLines": []
+    }
+  ]
+}
